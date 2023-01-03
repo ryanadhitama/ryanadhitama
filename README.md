@@ -2,6 +2,8 @@
 
 🔭 I’m currently a Fullstack Developer [@VincereDigital](https://vinceredigital.com)
 
+🌱 Write for sharing about programming [@Medium](https://ryanadhitama.medium.com)
+
 📫 Reach me at [ryanadhitama2@gmail.com](mailto:ryanadhitama2@gmail.com)
 <!--
 **ryanadhitama/ryanadhitama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
