@@ -20,6 +20,12 @@
 <a href="https://www.tiktok.com/@ryanadhitama_ style="text-decoration: none;">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
+
+#### Latest Blog
+- [NestJS Caching Data with Redis](https://javascript.plainenglish.io/caching-nestjs-data-with-redis-84e76d2890fd)
+- [Deploy NestJS Application into AWS Elastic Beanstalk](https://aws.plainenglish.io/deploy-nestjs-application-into-aws-elastic-beanstalk-c5474e19a6b4)
+- [GraphQL Integration with NestJS](https://blog.bitsrc.io/graphql-integration-with-nestjs-f19a90d4d50e)
+
 <!--
 **ryanadhitama/ryanadhitama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
