@@ -22,6 +22,7 @@
 </a>
 
 #### Latest Blog
+- [Integrating ESLint, Prettier, Husky, and Lint-staged for Effortless Development (NextJS)](https://javascript.plainenglish.io/streamlining-code-quality-and-collaboration-integrating-eslint-prettier-husky-and-lint-staged-22451a1a4969)
 - [NestJS Caching Data with Redis](https://javascript.plainenglish.io/caching-nestjs-data-with-redis-84e76d2890fd)
 - [Deploy NestJS Application into AWS Elastic Beanstalk](https://aws.plainenglish.io/deploy-nestjs-application-into-aws-elastic-beanstalk-c5474e19a6b4)
 - [GraphQL Integration with NestJS](https://blog.bitsrc.io/graphql-integration-with-nestjs-f19a90d4d50e)
