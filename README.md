@@ -22,6 +22,8 @@
 </a>
 
 #### Latest Blog
+- [Effortless Next.js Data Fetching with SWR, and Axios](https://medium.com/javascript-in-plain-english/effortless-next-js-data-fetching-with-swr-and-axios-a197517af7c1)
+- [Set Up PostCSS Nesting (Tailwind) in Your NextJS Project](https://medium.com/javascript-in-plain-english/setup-postcss-nesting-tailwind-in-your-nextjs-project-f2c9f763cc8f)
 - [Integrating ESLint, Prettier, Husky, and Lint-staged for Effortless Development (NextJS)](https://javascript.plainenglish.io/streamlining-code-quality-and-collaboration-integrating-eslint-prettier-husky-and-lint-staged-22451a1a4969)
 - [NestJS Caching Data with Redis](https://javascript.plainenglish.io/caching-nestjs-data-with-redis-84e76d2890fd)
 - [Deploy NestJS Application into AWS Elastic Beanstalk](https://aws.plainenglish.io/deploy-nestjs-application-into-aws-elastic-beanstalk-c5474e19a6b4)
