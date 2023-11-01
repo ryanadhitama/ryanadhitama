@@ -32,6 +32,9 @@
 - [NestJS Caching Data with Redis](https://javascript.plainenglish.io/caching-nestjs-data-with-redis-84e76d2890fd)
 - [Deploy NestJS Application into AWS Elastic Beanstalk](https://aws.plainenglish.io/deploy-nestjs-application-into-aws-elastic-beanstalk-c5474e19a6b4)
 - [GraphQL Integration with NestJS](https://blog.bitsrc.io/graphql-integration-with-nestjs-f19a90d4d50e)
+- [Upload File with NestJS](https://blog.bitsrc.io/upload-file-with-nestjs-d7dd74701b38)
+- [Authentication and Authorization in NestJS](https://blog.bitsrc.io/authentication-and-authorization-in-nestjs-39f9d92184ab)
+- [Writing CRUD REST API with NestJS and Prisma ORM](https://blog.bitsrc.io/writing-crud-rest-api-with-nestjs-and-prisma-b28a13c9f387)
 
 <!--
 **ryanadhitama/ryanadhitama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
