@@ -23,6 +23,7 @@
 
 #### Latest Blog
 ##### NextJS
+- [Integrating Auth0 with Next.js](https://ryanadhitama.medium.com/integrating-auth0-with-next-js-b0cb22d16aac)
 - [Implementing Atomic Design in Next.Js Project](https://medium.com/javascript-in-plain-english/implementing-atomic-design-in-next-js-project-22f2c318f2d6)
 - [Effortless Next.js Data Fetching with SWR, and Axios](https://medium.com/javascript-in-plain-english/effortless-next-js-data-fetching-with-swr-and-axios-a197517af7c1)
 - [Set Up PostCSS Nesting (Tailwind) in Your NextJS Project](https://medium.com/javascript-in-plain-english/setup-postcss-nesting-tailwind-in-your-nextjs-project-f2c9f763cc8f)
