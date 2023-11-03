@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ryan Adhitama
 
-🔭 I’m currently a Fullstack Developer [@VincereDigital](https://vinceredigital.com)
+🔭 I’m currently a Software Engineer [@VincereDigital](https://vinceredigital.com)
 
 🌱 Write for sharing about programming [@Medium](https://ryanadhitama.medium.com)
 
