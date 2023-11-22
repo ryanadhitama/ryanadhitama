@@ -23,6 +23,7 @@
 
 #### Latest Blog
 ##### NextJS
+- [NextJS with Stripe Payment Integration (Part 2)](https://medium.com/stackademic/nextjs-with-stripe-payment-integration-part-2-92f98b14554b)
 - [NextJS with Stripe Payment Integration (Part 1)](https://blog.stackademic.com/nextjs-with-stripe-payment-integration-part-1-d9ece0aa70c7)
 - [Integrating Auth0 with Next.js](https://ryanadhitama.medium.com/integrating-auth0-with-next-js-b0cb22d16aac)
 - [Implementing Atomic Design in Next.Js Project](https://medium.com/javascript-in-plain-english/implementing-atomic-design-in-next-js-project-22f2c318f2d6)
