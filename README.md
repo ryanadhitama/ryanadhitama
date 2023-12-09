@@ -21,6 +21,9 @@
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
+#### Projects
+- [Infowebtools](https://infowebtools.vercel.app/)
+
 #### Latest Blog
 ##### NextJS
 - [NextJS with Stripe Payment Integration (Part 2)](https://medium.com/stackademic/nextjs-with-stripe-payment-integration-part-2-92f98b14554b)
