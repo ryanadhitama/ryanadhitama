@@ -28,6 +28,7 @@
 
 #### Latest Blog
 ##### NextJS
+- [Elevating Web Forms with Next.js and Google Spreadsheet](https://medium.com/stackademic/elevating-web-forms-with-next-js-and-google-spreadsheet-a3150900479d)
 - [Build Your Own Chatbot using NextJS and OpenAI](https://medium.com/@ryanadhitama/build-your-own-chatbot-using-nextjs-and-openai-92c3af2ed97f)
 - [NextJS with Stripe Payment Integration (Part 2)](https://medium.com/stackademic/nextjs-with-stripe-payment-integration-part-2-92f98b14554b)
 - [NextJS with Stripe Payment Integration (Part 1)](https://blog.stackademic.com/nextjs-with-stripe-payment-integration-part-1-d9ece0aa70c7)
