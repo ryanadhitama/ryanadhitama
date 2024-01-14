@@ -25,9 +25,14 @@
 - [Infowebtools](https://infowebtools.vercel.app/)
 - [Hadist of The Day](https://hotd.vercel.app/)
 - [MovieDB](https://moviedb-ryanadhitama2.vercel.app/)
+- [Al-Quran Digital](https://next-quran-hazel.vercel.app/)
 
 #### Latest Blog
 ##### NextJS
+- [Build Quran App using NextJS and TailwindCSS](https://ryanadhitama.medium.com/build-quran-app-using-nextjs-and-tailwindcss-c0810e9adc77)
+- [Building Money App with Zod, React Hook Form, and React Query](https://blog.stackademic.com/building-money-app-with-zod-react-hook-form-and-react-query-c39afd47e3cc)
+- [Dynamic Forms: Next.js with Formik and Yup Integration](https://blog.stackademic.com/dynamic-forms-next-js-with-formik-and-yup-integration-fd43c12bed41)
+- [From Zero to CRUD: Developing a Next.js App with Prisma](https://blog.stackademic.com/from-zero-to-crud-developing-a-next-js-app-with-prisma-909976b90ce0)
 - [Elevating Web Forms with Next.js and Google Spreadsheet](https://medium.com/stackademic/elevating-web-forms-with-next-js-and-google-spreadsheet-a3150900479d)
 - [Build Your Own Chatbot using NextJS and OpenAI](https://medium.com/@ryanadhitama/build-your-own-chatbot-using-nextjs-and-openai-92c3af2ed97f)
 - [NextJS with Stripe Payment Integration (Part 2)](https://medium.com/stackademic/nextjs-with-stripe-payment-integration-part-2-92f98b14554b)
