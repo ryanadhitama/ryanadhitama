@@ -26,6 +26,7 @@
 - [Hadist of The Day](https://hotd.vercel.app/)
 - [MovieDB](https://moviedb-ryanadhitama2.vercel.app/)
 - [Al-Quran Digital](https://next-quran-hazel.vercel.app/)
+- [Indonesia Airwaybill Tracker](https://next-awb.vercel.app)
 
 #### Latest Blog
 ##### NextJS
