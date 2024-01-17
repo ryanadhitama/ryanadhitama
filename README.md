@@ -30,6 +30,7 @@
 
 #### Latest Blog
 ##### NextJS
+- [Indonesia Airway Bill Tracker using RajaOngkir, Next.js, and TailwindCSS](https://blog.stackademic.com/indonesia-airway-bill-tracker-using-rajaongkir-next-js-and-tailwindcss-9e5cc00570a2)
 - [Build Quran App using NextJS and TailwindCSS](https://ryanadhitama.medium.com/build-quran-app-using-nextjs-and-tailwindcss-c0810e9adc77)
 - [Building Money App with Zod, React Hook Form, and React Query](https://blog.stackademic.com/building-money-app-with-zod-react-hook-form-and-react-query-c39afd47e3cc)
 - [Dynamic Forms: Next.js with Formik and Yup Integration](https://blog.stackademic.com/dynamic-forms-next-js-with-formik-and-yup-integration-fd43c12bed41)
