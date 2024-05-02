@@ -27,6 +27,8 @@
 - [MovieDB](https://moviedb-ryanadhitama2.vercel.app/)
 - [Al-Quran Digital](https://next-quran-hazel.vercel.app/)
 - [Indonesia Airway Bill Tracker](https://next-awb.vercel.app)
+- [Resu.me](https://resu-me.vercel.app)
+- [Invoiz](https://invoiz-me.vercel.app)
 
 #### Latest Blog
 ##### NextJS
